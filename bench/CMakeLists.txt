@@ -1,0 +1,2 @@
+add_executable(spsc_throughput throughput.cpp)
+spsc_configure_target(spsc_throughput)
